@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Hamchikan
 
 Cyber Security student
-<img align="right" width="370" height="290" src="">
+<img align="right" width="370" height="290" src="https://github.com/hamchikan/hamchikan/blob/main/pngtree-computer-and-network-security-vulnerability-concept-open-padlock-on-keyboard-image_15745805.jpg">
 - 🔭 Here's my [portfolio](https://portfolio-848424770.development.catalystserverless.com/app/index.html#)                                                 
 - 🌱 I’m currently learning Backend Development
 - 💬 Ask me about Tech
